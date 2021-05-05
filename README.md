@@ -3,6 +3,8 @@
 A mini e-commerce application built with Rails 4.2 for purposes of practicing [Ted Pampilon's](https://github.com/tpampilon) Ruby and Rails skills.
 
 # Screenshots
+![home_page.png](https://github.com/tpampilon/jungle-rails/blob/master/public/readmeImage/home_page.png?raw=true)
+![cart_page.png](https://github.com/tpampilon/jungle-rails/blob/master/public/readmeImage/cart_page.png?raw=true)
 
 # Getting Started
 
